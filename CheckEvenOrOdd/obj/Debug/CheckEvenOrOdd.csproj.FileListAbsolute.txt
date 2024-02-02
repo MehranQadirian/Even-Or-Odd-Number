@@ -1,0 +1,6 @@
+D:\CSharp\Projects\CheckEvenOrOdd\CheckEvenOrOdd\bin\Debug\CheckEvenOrOdd.exe.config
+D:\CSharp\Projects\CheckEvenOrOdd\CheckEvenOrOdd\bin\Debug\CheckEvenOrOdd.exe
+D:\CSharp\Projects\CheckEvenOrOdd\CheckEvenOrOdd\bin\Debug\CheckEvenOrOdd.pdb
+D:\CSharp\Projects\CheckEvenOrOdd\CheckEvenOrOdd\obj\Debug\CheckEvenOrOdd.csproj.CoreCompileInputs.cache
+D:\CSharp\Projects\CheckEvenOrOdd\CheckEvenOrOdd\obj\Debug\CheckEvenOrOdd.exe
+D:\CSharp\Projects\CheckEvenOrOdd\CheckEvenOrOdd\obj\Debug\CheckEvenOrOdd.pdb
